@@ -1,7 +1,7 @@
 .gradle/
 test
 testing webhook trigger
-webhook test1
+webhook test
 final deployment test2
-using webhook trigger test1
+using webhook trigger test
 using jenkins master to trigger codereview
